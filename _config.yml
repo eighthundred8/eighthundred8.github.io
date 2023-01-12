@@ -1,8 +1,8 @@
 # Configurations
-title:            Jekyll Gitbook
+title:            EightHundred
 longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+author:           Eight Hundred
+email:            
 description: >
   Build Jekyll site with the GitBook style.
 
@@ -10,7 +10,7 @@ version:          1.0
 gitbook_version:  3.2.3
 
 url:              'https://eighthundred8.github.io/'
-baseurl:          '/jekyll-gitbook'
+baseurl:          ''
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
